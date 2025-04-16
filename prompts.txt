@@ -1,0 +1,13 @@
+Prompt 1 : How do I connect my Python backend to a ClickHouse database using a JWT token for authentication?
+
+Prompt 2 : What is the easiest way to install and use the ClickHouse Python client to connect to a ClickHouse database using JWT token?
+
+Prompt 3 : What’s the best folder structure for a small Python FastAPI project with separate files for routes, models, and utils?
+
+Prompt 4 : How can I connect to a ClickHouse server using host, port, database name, username, and JWT token in Python?
+
+Prompt 5 : How can I extract column names from an uploaded CSV file and return them as a list in FastAPI?
+
+Prompt 6 : What’s a beginner-friendly method to stream large datasets in chunks during ingestion to avoid memory issues?
+
+Prompt 7 : How do I join two ClickHouse tables using user-provided JOIN keys and return the result as a DataFrame or CSV?

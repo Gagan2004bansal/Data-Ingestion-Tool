@@ -86,6 +86,9 @@ Frontend runs at : http://localhost:3000
 
 ---
 
+## User Interface
+![Data Ingestion Tool](tool.png)
+
 ## Usage
 1. Launch UI: Open http://localhost:3000
 2. Upload CSV: Preview → Select columns → Click “Ingest”
