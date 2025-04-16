@@ -50,7 +50,7 @@ Bidirectional data flow made simple:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dixitaa13/ingestion-tool.git
+git clone https://github.com/Gagan2004bansal/Data-Ingestion-Tool.git
 cd ingestion-tool
 ```
 
